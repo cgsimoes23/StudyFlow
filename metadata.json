@@ -1,0 +1,7 @@
+{
+  "name": "StudyFlow",
+  "description": "Aplicação simples para ajudar estudantes iniciantes a organizar e acompanhar seus objetivos de estudo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
